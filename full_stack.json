@@ -7,7 +7,7 @@
         "linkedin": "https://www.linkedin.com/in/amin-haiqal",
         "github": "https://github.com/aminhaiqal"
     },
-    "about_me": "I am a passionate full-stack developer with a degree in Computer Science (Software Engineering) from Universiti Teknologi Malaysia, specializing in AI/ML applications, cloud computing, and scalable web development. I thrive on creating innovative solutions that integrate generative AI models to solve real-world challenges. With expertise in technologies like React, Django, TypeScript, and AWS, I am dedicated to building high-performance, secure, and user-centric applications. I am constantly driven by the opportunity to learn, grow, and push the boundaries of technology, aiming to deliver impactful solutions that make a difference in both the tech industry and the lives of users.", 
+    "about_me": "I am a driven full-stack developer with a deep passion for solving complex problems through technology. Holding a degree in Computer Science (Software Engineering) from Universiti Teknologi Malaysia, I specialize in AI/ML applications, cloud computing, and scalable web development. I am particularly focused on integrating generative AI models to create innovative solutions that have a meaningful, real-world impact. With expertise in technologies such as React, Django, TypeScript, and AWS, I take pride in building secure, high-performance, and user-centric applications that are designed to scale and adapt. What excites me most is the constant opportunity to learn, evolve, and push the boundaries of what's possible in tech. My goal is to continually challenge myself and deliver solutions that not only drive the success of businesses but also enrich the lives of users in ways that truly matter.", 
     "education": [
         {
             "inst": "Universiti Teknologi Malaysia (UTM)",
@@ -57,7 +57,7 @@
                 "c2": "Engineered key features including automated legislative bill tracking, real-time notifications, and a robust stakeholder management system to improve user engagement and data accessibility.",
                 "c3": "Led full-stack development using Python, Django, React, TypeScript, and AWS, ensuring the application is scalable and high-performing to handle increasing traffic and complexity.",
                 "c4": "Integrated AI-powered summaries via the ChatGPT API, automating the categorization and summarization of legislative initiatives, reducing manual work and delivering timely, relevant insights to users.",
-                "c5": "Designed a user-friendly interface and developed stakeholder engagement tools, such as email alerts, interactive dashboards, and event management features, improving communication and participation.",
+                "c5": "Designed a user-friendly interface and developed stakeholder engagement tools, such as email alerts, and interactive dashboards, improving communication and participation.",
                 "c6": "Deployed and scaled the platform using AWS, ensuring high availability and optimizing performance during traffic spikes.",
                 "c7": "As part of the internship, contributed to the data scraping architecture for automating data extraction from government portals, significantly reducing data collection time from hours to minutes and increasing efficiency in legislative tracking."
             }
