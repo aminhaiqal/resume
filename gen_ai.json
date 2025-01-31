@@ -1,0 +1,106 @@
+{
+    "profile": {
+        "name": "MUHAMMAD AMIN HAIQAL BIN ROSLEE",
+        "address": "Klang, Selangor",
+        "email": "aminhaiqal15@gmail.com",
+        "phone": "(+60) 17-667 2587",
+        "linkedin": "https://www.linkedin.com/in/amin-haiqal",
+        "github": "https://github.com/aminhaiqal"
+    },
+    "about_me": "I am a passionate full-stack developer with a degree in Computer Science (Software Engineering) from Universiti Teknologi Malaysia, specializing in AI/ML applications, cloud computing, and scalable web development. I thrive on creating innovative solutions that integrate generative AI models to solve real-world challenges. With expertise in technologies like React, Django, TypeScript, and AWS, I am dedicated to building high-performance, secure, and user-centric applications. I am constantly driven by the opportunity to learn, grow, and push the boundaries of technology, aiming to deliver impactful solutions that make a difference in both the tech industry and the lives of users.", 
+    "education": [
+        {
+            "inst": "Universiti Teknologi Malaysia (UTM)",
+            "study": "Bachelor of Computer Science (Software Engineering) with Honours",
+            "year": "2021-2024",
+            "cgpa": "3.57"
+        },
+        {
+            "inst": "Universiti Teknologi Malaysia (UTM)",
+            "study": "Foundation in Engineering",
+            "year": "2019-2020",
+            "cgpa": "3.56"
+        }
+    ],
+    "work_experience": [
+        {
+            "company": "ARMO - Asociația Română a Magazinelor Online",
+            "job": "Software Engineer Intern",
+            "year": "2023-2024",
+            "contribution": {
+                "c1": "Engineered and launched MONITORSCAPE, a regulatory monitoring and stakeholder management SaaS platform, using Python, Django, React, PostgreSQL, and AWS to deliver a scalable and performant solution.",
+                "c2": "Integrated generative AI (via ChatGPT API) to automate legislative tracking by generating real-time summaries and categorizing legal documents, enhancing user experience and reducing data processing time by 75%.",
+                "c3": "Built full-stack web applications that incorporated AI features for improved stakeholder engagement, including automated notifications, real-time dashboards, and interactive event management.",
+                "c4": "Utilized AWS for deployment and scaling, ensuring high availability during high traffic peaks by managing containerized deployments with Docker."
+            }
+        }
+    ],
+    "project_experience": [
+        {
+            "project": "MONITORSCAPE: A Regulatory Monitoring and Stakeholder Management Platform (SaaS)",
+            "tech_stack": "React (Typescript), Python, PostgreSQL, Postman, Docker, AWS, Git, Ansible",
+            "year": "2023-2024",
+            "contribution": {
+                "c1": "Developed a comprehensive web platform designed to streamline regulatory monitoring and stakeholder management for public affairs professionals.",
+                "c2": "Engineered key features including automated bill tracking, real-time notifications, and a robust stakeholder management system.",
+                "c3": "Utilized Python, Django, React, TypeScript, and AWS to build scalable, secure, and high-performance applications.",
+                "c4": "Implemented automated data scraping from multiple government portals, reducing data collection time from hours to minutes and increasing efficiency in legislative tracking.",
+                "c5": "Integrated AI-powered summaries using the ChatGPT API to categorize and summarize legislative initiatives, enhancing user experience with up-to-date information.",
+                "c6": "Designed an intuitive user interface and incorporated stakeholder engagement tools, including email alerts, interactive dashboards, and event management features."
+            }
+        },
+        {
+            "project": "Quickride: Development of Transportation Services Mobile Application for University Students",
+            "tech_stack": "Flutter, Firebase, Stripe",
+            "year": "2023-2024",
+            "contribution": {
+                "c1": "Designed and developed a mobile application tailored to meet the transportation needs of university students, managing all phases from concept to deployment.",
+                "c2": "Implemented essential features like ridesharing, real-time location tracking, and secure cashless payments, significantly improving user convenience and accessibility.",
+                "c3": "Leveraged Firebase for robust data management and integrated Stripe for secure payment processing, showcasing expertise in modern mobile app development and cloud technologies.",
+                "c4": "Optimized user experience by focusing on seamless navigation and intuitive interface design, resulting in a smooth and efficient ride-booking process for students."
+            }
+        }
+    ],
+    "related_skills": [
+        {
+            "technical_skills": {
+                "Web Development & Frameworks": [
+                    "Django", "React.js", "Redux", "Spring Boot", "Node.js", "Flutter", "Ant Design", "Tailwind CSS"
+                ],
+                "Databases & Data Management": [
+                    "PostgreSQL", "MySQL", "Redis", "Firebase", "Prisma", "RDS", "S3"
+                ],
+                "DevOps & Cloud": [
+                    "AWS (EC2, S3, Lambda, RDS)", "GCP", "Docker", "Ansible", "Nginx"
+                ],
+                "Version Control & CI/CD": [
+                    "Git", "GitHub", "Postman"
+                ],
+                "UI/UX & Design": [
+                    "Figma", "Shadcdn", "Ant"
+                ],
+                "Miscellaneous": [
+                    "RESTful APIs", "Stripe", "Linux"
+                ]
+            },
+            "soft_skills": [
+                "Leadership and team collaboration",
+                "Problem-solving and critical thinking",
+                "Project management and organization",
+                "Adaptability and quick learning"
+            ],
+            "language_proficiency": {
+                "Malay": {
+                    "Reading": "Native",
+                    "Writing": "Native",
+                    "Communication": "Native"
+                },
+                "English": {
+                    "Reading": "Fluent",
+                    "Writing": "Fluent",
+                    "Communication": "Proficient"
+                }
+            }
+        }        
+    ]
+}
